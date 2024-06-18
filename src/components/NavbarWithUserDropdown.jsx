@@ -4,7 +4,7 @@ import {
 	ArrowLeftStartOnRectangleIcon,
 } from "@heroicons/react/24/solid";
 
-export const Navbar = () => {
+export const Navbar1 = () => {
 	const [isToggleOpen, setIsToggleOpen] = useState(false);
 	const [isOpen, setIsOpen] = useState(false);
 
